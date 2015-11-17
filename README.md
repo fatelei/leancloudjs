@@ -1,5 +1,5 @@
 # leancloudjs
-Leancloud JavaScript SDK.
+Leancloud JavaScript SDK. ![Build status](https://travis-ci.org/fatelei/leancloudjs.svg)
 
 ## Install
 
