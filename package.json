@@ -1,0 +1,24 @@
+{
+  "name": "leancloudjs",
+  "version": "1.0.0",
+  "description": "leacloud api sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatelei/leancloudjs.git"
+  },
+  "keywords": [
+    "leancloud",
+    "api",
+    "sdk"
+  ],
+  "author": "fatelei@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatelei/leancloudjs/issues"
+  },
+  "homepage": "https://github.com/fatelei/leancloudjs#readme"
+}
